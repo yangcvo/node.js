@@ -67,7 +67,7 @@ Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引�
 * [使用 nodejs 和 mongodb 开发 WebApp](http://dailyjs.com/tags.html#lmawa) （英文）
 * [给 Node.js 新手的7条小建议](http://cnodejs.org/topic/525216a3f29c7bbd3c877cbf)
 
-## Node.js 书籍
+## Node.js 书籍 
 
 * [《深入浅出 Node.js》](http://book.douban.com/subject/25768396/)
 * [《了不起的 Node.js》](http://book.douban.com/subject/25767596/)
