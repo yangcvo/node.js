@@ -50,7 +50,7 @@ make && make install
 
 ## 热门包
 
-* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)（中文）
+* Grunt：[http://gruntjs.com/](http://gruntjs.com/) （英文）、[http://gruntjs.cn/](http://gruntjs.cn/)（中文）、[http://www.gruntjs.net/getting-started](http://www.gruntjs.net/getting-started) Grunt快速入门
 * Gulp：[http://gulpjs.com/](http://gulpjs.com/)
 * Yeoman：[http://yeoman.io/](http://yeoman.io/)
 * Socket.io：[http://socket.io/](http://socket.io/)
