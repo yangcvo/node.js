@@ -4,7 +4,7 @@
 Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台。
 Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引擎，V8引擎执行Javascript的速度非常快，性能非常好。
 
-### 安装教程: [http://blog.yangcvo.me/2015/05/16/安装Node-Js/](http://blog.yangcvo.me/2015/05/16/安装Node-Js/)
+### 安装教程: [http://blog.yancy.cc/](http://blog.yangcvo.me/2015/05/16/安装Node-Js/)
 ### 安装脚本: [https://github.com/yangcvo/node.js.git](https://github.com/yangcvo/node.js.git)
 
 由于centos6 默认gcc4.4 而node v4需要gcc 4.8, 因此通过安装devtools-2来解决（已经绑定gcc 4.8)
