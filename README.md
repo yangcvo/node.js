@@ -54,7 +54,7 @@ make && make install
 * Gulp：[http://gulpjs.com/](http://gulpjs.com/)
 * Yeoman：[http://yeoman.io/](http://yeoman.io/)
 * Socket.io：[http://socket.io/](http://socket.io/)
-* mocha：[http://visionmedia.github.io/mocha/](http://visionmedia.github.io/mocha/)
+* mocha：[http://mochajs.org/](http://mochajs.org/)
 * uglifyjs：[https://github.com/mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2)
 * shelljs：[http://documentup.com/arturadib/shelljs](http://documentup.com/arturadib/shelljs)
 
